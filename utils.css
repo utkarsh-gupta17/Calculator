@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+.numbers{
+    color: white;
+    background: grey;
+}
+.operation{
+    color: white;
+    background: gold;
+}
+.flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
